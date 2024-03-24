@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148460265367",
+    "project_id": "works-cffaa",
+    "storage_bucket": "works-cffaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148460265367:android:cfffea4f4abbf494236ed2",
+        "android_client_info": {
+          "package_name": "com.oneman.workwell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ_3yhY2TMuIsHVAPggcHXyi1qwjwVCvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
